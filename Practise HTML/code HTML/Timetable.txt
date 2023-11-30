@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta>
+            <title>Assignment2</title>
+        </head>
+        <body>
+            <center>
+                <h1>TimeTable</h1>
+                <table border="2" cellsapcing="0px" cellpadding="20px">
+                        <tr>
+                            <td><b><i>J Spider</i></b></td>
+                            <td><b>period 1</b></td>
+                            <td><b>period 2</b></td>
+                            <td><b>period 3</b></td>
+                            <td><b>period 4</b></td>
+                            <td rowspan="7">
+                        <H3>    L <br>
+                                U <br>
+                                N <br>
+                                C <br>
+                                H <br> <br>  
+                                B <br>
+                                R <br>
+                                E <br>
+                                A <br>
+                                K <br> </H3>
+                            </td>
+                            <td><b>period 5</b></td>
+                            <td><b>period 6</b></td>
+                            <td><b>period 7</b></td>
+                            <td><b>period 8</b></td> 
+                        </tr>
+                        <tr>
+                            <td><b>Monday</b></td>
+                            <td>Sub 1</td>
+                            <td>Sub 2</td>
+                            <td>Sub 3</td>
+                            <td>Sub 4</td>
+                            
+                            <td>Sub 5</td>
+                            <td>Sub 6</td>
+                            <td>Sub 7</td>
+                            <td>Sub 8</td>
+                        </tr>
+                        <tr>
+                            <td><B>Tuesday</B></td>
+                            <td>Sub 1</td>
+                            <td>Sub 5</td>
+                            <td>Sub 2</td>
+                            <td>Sub 7</td>
+                            
+                            <td>Sub 3</td>
+                            <td>Sub 4</td>
+                            <td>Sub 8</td>
+                            <td>Sub 6</td>
+                            
+                        </tr>
+                        <tr>
+                            <td><b>Wednesday</b></td>
+                            <td>Sub 8</td>
+                            <td>Sub 5</td>
+                            <td>Sub 1</td>
+                            <td>Sub 6</td>
+                            
+                            <td>Sub 3</td>
+                            <td>Sub 7</td>
+                            <td>Sub 2</td>
+                            <td>Sub 4</td>
+                        </tr>
+                        <tr>
+                            <td><b>Thursday</b></td>
+                            <td>Sub 1</td>
+                            <td>Sub 3</td>
+                            <td>Sub 6</td>
+                            <td>Sub 8</td>
+                            
+                            <td>Sub 2</td>
+                            <td>Sub 4</td>
+                            <td>Sub 7</td>
+                            <td>Sub 5</td>
+                        </tr>
+                        <tr>
+                            <td><b>Friday</b></td>
+                            <td>Sub 4</td>
+                            <td>Sub 3</td>
+                            <td>Sub 2</td>
+                            <td>Sub 1</td>
+                            
+                            <td>Sub 8</td>
+                            <td>Sub 7</td>
+                            <td>Sub 6</td>
+                            <td>Sub 5</td>
+                        </tr>
+                        <tr>
+                            <td><b>Saturday</b></td>
+                            <td>Sub 8</td>
+                            <td>Sub 7</td>
+                            <td>Sub 6</td>
+                            <td>Sub 5</td>
+                            
+                            <td>Sub 4</td>
+                            <td>Sub 3</td>
+                            <td>Sub 2</td>
+                            <td>Sub 1</td>
+                        </tr>
+                        <tr>
+                            <td><b>Sunday</b></td>
+                            <td colspan="9">
+                                <Center>
+                              <B>   H O L I D A Y <b>
+                                </Center></td>
+                            
+                        </tr>
+                </table>
+            </center>
+        </body>
+    </html>
